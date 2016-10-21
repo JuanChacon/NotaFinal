@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NotaFinal</string>
+    <string name="PA1">Practica 1 en el aula</string>
+    <string name="PA2">Practica 2 en el aula</string>
+    <string name="PA3">Practica 3 en el aula</string>
+    <string name="PA4">Practica 4 en el aula</string>
+    <string name="PB1">Practica 1 en el laboratorio</string>
+    <string name="PB2">Practica 2 en el laboratorio</string>
+    <string name="PB3">Practica 3 en el laboratorio</string>
+    <string name="PB4">Practica 4 en el laboratorio</string>
+    <string name="BtnCal">Calcular</string>
+</resources>
+
+
